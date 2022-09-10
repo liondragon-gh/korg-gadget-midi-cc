@@ -80,10 +80,10 @@
 	"86" : { "XMod Wave" : [ "Triangle", "Saw", "Square", "Pulse" ] },
 	"87" : "XMod Tune",
 	"88" : "XMod Depth",
-	"1" : "Filter Cutoff",
+	"74" : "Filter Cutoff",
 	"71" : "Filter Crush",
 	"89" : { "Wobble Shape" : [ "Triangle", "DownSaw", "UpSaw", "Square" ] },
-	"90" : "Wobble Depth", 
+	"1"  : "Wobble Depth", 
 	"91" : { "Wobble Rate" : [ "1/2", "1/4", "1/8", "1/16", "1/3", "1/6", "1/12", "1/24" ] },
 	"92" : "Output Stereo"
 },
