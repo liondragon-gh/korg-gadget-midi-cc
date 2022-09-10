@@ -60,12 +60,12 @@
 	"13" : "FX Edit 2"
 },
 "Brussels" : {
-	"81" : "Performer Repeat",
+	"1"  : "Performer Repeat",
 	"82" : "Performer Pump",
 	"83" : "Generator Bottom",
 	"5"  : "Generator Glide",
 	"84" : "Generator Diffuse",
-	"1"  : "Generator Filter",
+	"74" : "Generator Filter",
 	"85" : "Generator Twist",
 	"13" : "Reverb Tone",
 	"12" : "Reverb Level"
